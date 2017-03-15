@@ -17,6 +17,8 @@ accurate comments, etc.) and don't forget to add your own tests and
 documentation. When working with git, we recommend the following process
 in order to craft an excellent pull request:
 
+Before anything make sure you got Ruby installed on your computer.
+
 1. [Fork](http://help.github.com/fork-a-repo/) the project, clone your fork,
    and configure the remotes:
 
