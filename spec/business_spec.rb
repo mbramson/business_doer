@@ -1,5 +1,5 @@
 require_relative '../business.rb'
-
+#comment
 RSpec.describe Business do
   subject {Business.new}
   describe '#perform' do
