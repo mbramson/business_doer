@@ -8,3 +8,12 @@ RSpec.describe Business do
     end
   end
 end
+
+RSpec.describe Gonzo do
+  subject {Gonzo.new}
+  describe '#perform' do
+    it 'returns Gonzo' do
+      expect(subject.perform).to eq("gonzzzz")
+    end
+  end
+end
