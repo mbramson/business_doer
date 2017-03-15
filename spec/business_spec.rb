@@ -6,5 +6,9 @@ RSpec.describe Business do
     it 'returns Business' do
       expect(subject.perform).to eq("Business")
     end
+    describe '#buzzword' do
+      it 'returns buzzword' do
+        expect(subject.perform).to eq("Integrated business solutions")
+      end
   end
 end
