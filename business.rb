@@ -6,3 +6,4 @@ class Business
     "Integrated business solutions"
   end
 end
+
