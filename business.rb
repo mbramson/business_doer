@@ -1,5 +1,9 @@
 class Business
   def perform
-    "Business"
+    "business"
+  end
+  def buzzword
+    "Integrated business solutions"
   end
 end
+
