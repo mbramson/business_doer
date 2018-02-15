@@ -1,5 +1,5 @@
 class Business
   def perform
-    "Business"
+    " New Business with CoverMyMeds "
   end
 end
