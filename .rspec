@@ -1,2 +1,2 @@
---color
+--color = blue
 --require spec_helper
