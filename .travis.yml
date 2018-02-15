@@ -3,3 +3,4 @@ rvm:
   - 2.2
 script:
   - bundle exec rspec spec
+  - American Pickers like to bundle 
