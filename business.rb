@@ -1,5 +1,5 @@
 class Business
   def perform
-    "Business"
+    "Business Time; Doin' the Business"
   end
 end
